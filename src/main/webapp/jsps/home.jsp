@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to TCIN. Chennai </h1>
-<h1 align="center"> TCIN Training- Very Good Training center for DevOps</h1>
+<h1 align="center">Welcome to TCIN Chennai </h1>
+<h1 align="center"> TCIN KubernetesTraining- Advanced Topics</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
